@@ -1,4 +1,4 @@
-# Deliverables Automation with Wafermap Visualization
+# Deliverables Automation Tool with Wafermap
 
 ## 📖 Description
 Automates semiconductor deliverables by converting CSVs to Excel, generating pivot tables, validating End Test numbers, and creating wafermap visualizations for yield and defect tracking. Built with Python, Tkinter, OpenPyXL, and xlwings, it streamlines workflows and ensures reproducible, audit‑ready insights.
@@ -16,13 +16,13 @@ Automates semiconductor deliverables by converting CSVs to Excel, generating piv
   Tkinter‑based interface for file selection, filter dropdowns, and status logging.
 
 ## 🛠️ Tech Stack
-- **Python** (automation & GUI)
-- **Tkinter** (user interface)
-- **OpenPyXL** (Excel file handling)
-- **xlwings** (pivot tables & wafermap generation)
-- **CSV** (data parsing)
+- Python (automation & GUI)  
+- Tkinter (user interface)  
+- OpenPyXL (Excel file handling)  
+- xlwings (pivot tables & wafermap generation)  
+- CSV (data parsing)  
 
 ## 👩‍💻 Author
-**Rose Anne Lafuente**
-- **Licensed Electronics Engineer | Product Engineer II | Python Automation**
-- **GitHub: @roannelafuente**
+**Rose Anne Lafuente**  
+Licensed Electronics Engineer | Product Engineer II | Python Automation  
+GitHub: [@roannelafuente](https://github.com/roannelafuente)
