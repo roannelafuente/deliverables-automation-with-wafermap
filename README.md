@@ -33,6 +33,10 @@ These files are included for demonstration purposes so recruiters and collaborat
 ### GUI Dashboard
 ![Deliverables Automation with Wafermap GUI](Deliverables%20Automation%20with%20Wafermap%20GUI.png)
 
+## 📦 Download
+The latest release (with `.exe` build) is available here:  
+[➡️ Deliverables Automation Tool v1.0](https://github.com/roannelafuente/deliverables-automation-with-wafermap/releases/tag/v1.0.0)
+
 ## 👩‍💻 Author
 **Rose Anne Lafuente**  
 Licensed Electronics Engineer | Product Engineer II | Python Automation  
