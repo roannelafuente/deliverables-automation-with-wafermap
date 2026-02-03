@@ -22,7 +22,7 @@ Automates semiconductor deliverables by converting CSVs to Excel, generating piv
 - **xlwings** (pivot tables & wafermap generation)
 - **CSV** (data parsing)
 
-- **Author**
-Rose Anne Lafuente
+## 👩‍💻 Author
+**Rose Anne Lafuente**
 - **Licensed Electronics Engineer | Product Engineer II | Python Automation**
 - **GitHub: @roannelafuente**
