@@ -24,5 +24,5 @@ Automates semiconductor deliverables by converting CSVs to Excel, generating piv
 
 Author
 Rose Anne Lafuente
-Licensed Electronics Engineer | Product Engineer II | Python Automation | GUI Design
+Licensed Electronics Engineer | Product Engineer II | Python Automation 
 GitHub: @roannelafuente
