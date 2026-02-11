@@ -33,7 +33,7 @@ These files are included for demonstration purposes so recruiters and collaborat
 ### GUI Dashboard
 ![Deliverables Automation with Wafermap GUI](Deliverables%20Automation%20with%20Wafermap%20GUI.png)
 
-##🌟 **Impact (v1.0.0)**
+##🌟 Impact (v1.0.0)
 - Marked the first release to include wafermap visualization, enabling engineers to see yield and defect distribution visually.  
 - Automated CSV → Excel conversion and pivot table generation reduced manual effort in preparing deliverables.  
 - Introduced fallout analysis by filtering `C1_MARK` values and calculating End Test fallout percentages.  
