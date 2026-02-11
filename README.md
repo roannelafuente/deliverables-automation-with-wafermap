@@ -33,6 +33,13 @@ These files are included for demonstration purposes so recruiters and collaborat
 ### GUI Dashboard
 ![Deliverables Automation with Wafermap GUI](Deliverables%20Automation%20with%20Wafermap%20GUI.png)
 
+##🌟 **Impact (v1.0.0)**
+- Marked the first release to include wafermap visualization, enabling engineers to see yield and defect distribution visually.  
+- Automated CSV → Excel conversion and pivot table generation reduced manual effort in preparing deliverables.  
+- Introduced fallout analysis by filtering `C1_MARK` values and calculating End Test fallout percentages.  
+- Provided a Tkinter GUI for file selection, filter dropdowns, and status logging, making the workflow more accessible.  
+- Random wafermap coloring served as a prototype stage, laying the foundation for deterministic production color codes in later releases.
+  
 ## 📦 Download
 The latest release (with `.exe` build) is available here:  
 [➡️ Deliverables Automation Tool v1.0](https://github.com/roannelafuente/deliverables-automation-with-wafermap/releases/tag/v1.0.0)
